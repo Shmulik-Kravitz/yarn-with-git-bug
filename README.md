@@ -1,4 +1,4 @@
-# Bug in "yarn workspaces" does not work nice with `git clean -xdf`
+# Bug in "yarn workspaces" does not play nice with `git clean -xdf`
 
 When runnig  `git clean -xdf` in a repo with yarn workspaces the contens of the workspaces are deleted.
 
