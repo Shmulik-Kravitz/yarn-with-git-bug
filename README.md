@@ -5,11 +5,11 @@ When running `git clean -xdf` in a repo with yarn workspaces, the contents of th
 Consider this folder structure:
 
  - workspace1
-  - **index.js**
-  - **package.json**
+   - **index.js**
+   - **package.json**
  - workspace2
-  - **index.js**
-  - **package.json**
+   - **index.js**
+   - **package.json**
  - .gitignore
  - README.md
  - package.json
