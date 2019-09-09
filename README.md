@@ -7,4 +7,5 @@ When running  `git clean -xdf` in a repo with yarn workspaces the contents of th
  1. Clone the repo.
  2. Run `yarn`  in the root folder or in one of the workspaces.
  3. Run `git clean -xdf` 
-
+ 
+ The contents of the workspaces are deleted.
