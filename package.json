@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+  },
+  "workspaces": [
+    "workspace1",
+    "workspace2"
+  ],
+  "dependencies": {
+    "webpack": "^4.29.5"
+  }
+}
