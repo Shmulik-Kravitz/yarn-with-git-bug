@@ -1,6 +1,6 @@
 # Bug in "yarn workspaces" does not play nice with `git clean -xdf`
 
-When runnig  `git clean -xdf` in a repo with yarn workspaces the contens of the workspaces are deleted.
+When running  `git clean -xdf` in a repo with yarn workspaces the contents of the workspaces are deleted.
 
 ## How to reproduce
 
